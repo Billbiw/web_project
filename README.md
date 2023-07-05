@@ -1,10 +1,10 @@
 # web实训项目
  首先**fork**本项目到自己的仓库
- ![img.png](img.png)
+ ![img.png](image/img.png)
 点击自己仓库fork的代码
-![img_1.png](img_1.png)
+![img_1.png](image/img_1.png)
 然后clone到本地
-![img_2.png](img_2.png) 
+![img_2.png](image/img_2.png) 
 
 ```
 git clone 仓库地址
@@ -28,3 +28,4 @@ git push
 ```
 
 然后在自己的仓库点击pull request
+![img_3.png](image/img_3.png)
